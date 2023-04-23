@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       useInheritedMediaQuery: true,
       debugShowCheckedModeBanner: false,
       theme: ThemeData(useMaterial3: true),
-      home: homeScreen(),
+      home: HomeScreen(),
     );
   }
 }
