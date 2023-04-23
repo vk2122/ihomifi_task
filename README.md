@@ -1,6 +1,5 @@
-# ihomifi_task
+# Task Description:
 
-Task Description:
 You are required to create an Alexa custom skill which will take the user's voice from the
 Flutter app and trigger Alexa skill to do functionalities like turning on/off a light or switch
 appliance.
